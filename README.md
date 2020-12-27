@@ -1,79 +1,74 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# Instagram Clone
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+### Table of Contents:
+1. <a href="#details">Project Details</a> 
+2. <a href="#application">Application</a>
+3. <a href="#screenshots">Screenshots</a>
+4. <a href="#steps">Steps to run after Clone</a>
+5. <a href="#acknowledgements">Acknowledgements</a>
 
-## About Laravel
+---
+### <a name="details"> 1. Project Details</a>
+Social media can be very influential on society in both positive and negative ways. It gives people a way to stay in touch with people who live far away. In this project ,we have created a replica of the Instagram App which is a social networking service.  Instagram Clone is a website which lets people share fun, interesting and informative content.
+The user has to register to the website so that he/she can view his/her feed and connect to people. Laravel includes built-in authentication and session services which are typically accessed via the Auth and Session facades. The frontend user interface of the website is developed using **HTML5, CSS, Javascript and Bootstrap**. The backend is developed using Laravel PHP framework which controls the functionality of the routes and various controllers. This system stores all the information in a MYSQL Database. It stores data of the users, the posts, the profile details and the following and the followers.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+On starting the server, the first task is the User Authentication. If the user is not registered he is asked to Sign In first and then Login to his account .Upon Logging in, the user is taken to his account page. Where he can view his Followers, the people Following him and the number of posts. The user can edit his profile at any time. He can also Add a new post to make his profile look perfect. 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+### <a name="application"> 2. Application</a>
+Instagram Clone is a system where people can connect with each other by sharing pictures or by following other users. You can give a different look or feel to your images, using them to convey your desired mood and message. It is a user-friendly website where users can post pictures, follow other users, search for friends or family, like other posts, scroll through the explore page for fun and many more. The user can also give his/her own feedback.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### <a name="screenshots"> 3. Screenshots</a>
+> Main page where user can Register/Login <br><br>
+![image](https://user-images.githubusercontent.com/58616834/102899471-ef8e6c80-4490-11eb-84c0-b6b274a60000.png)
 
-## Laravel Sponsors
+> Profile Page <br><br>
+![image](https://user-images.githubusercontent.com/58616834/102899516-092fb400-4491-11eb-9282-5352b03816f6.png)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+> Home Page where the logged in user can see the posts of his followers <br><br>
+![image](https://user-images.githubusercontent.com/58616834/102899171-89a1e500-4490-11eb-968d-9eda09f2cb23.png)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-- [云软科技](http://www.yunruan.ltd/)
+> Explore Page <br><br>
+![image](https://user-images.githubusercontent.com/58616834/102899281-b0601b80-4490-11eb-88a7-b865207ba6f2.png)
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
+### <a name="steps"> 4. Steps to run after Clone</a>
+- Open the project in Command prompt, cd into the project and run ``composer install``
+- To install the npm dependencies, run ``npm install``
+- Rename '.env.example' to '.env'
+- Generate an app encryption key by running this command ``php artisan key:generate``
+- Create an empty database and add the details in the '.env' file
+- Migrate the database by ``php artisan migrate``
+- Run ``php artisan serve`` to test the project.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### <a name="acknowledgements"> 5. Acknowledgements</a>
+<div>
+    <table>
+        <td align=center>
+            <a href="https://github.com/katerebello">
+                <img src="https://user-images.githubusercontent.com/58616834/102801031-b1cf0c80-43da-11eb-9531-2f14278265c7.png" alt="Kate" height="150" width="150">
+                <br><sub><b>Kate Rebello</b></sub>
+            </a>
+        </td>
+        <td align=center>
+            <a href="https://github.com/clare0901">
+                <img src="https://user-images.githubusercontent.com/58616834/102794374-4c2a5280-43d1-11eb-8012-85a071ae1577.png" alt="Clare" height="150" width="150">
+                <br><sub><b>Clare Rebello</b></sub>
+            </a>
+        </td>
+        <td align=center>
+            <a href="https://github.com/rebeccadias">
+                <img src="https://user-images.githubusercontent.com/58616834/102802882-5c482f00-43dd-11eb-932c-20ff9ea4312c.png" alt="Rebecca" height="150" width="150">
+                <br><sub><b>Rebecca Dias</b></sub>
+            </a>
+        </td>
+    </table>
+</div>
