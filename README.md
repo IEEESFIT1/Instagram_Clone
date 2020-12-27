@@ -50,25 +50,7 @@ Instagram Clone is a system where people can connect with each other by sharing 
 ---
 
 ### <a name="acknowledgements"> 5. Acknowledgements</a>
-<div>
-    <table>
-        <td align=center>
-            <a href="https://github.com/katerebello">
-                <img src="https://user-images.githubusercontent.com/58616834/102801031-b1cf0c80-43da-11eb-9531-2f14278265c7.png" alt="Kate" height="150" width="150">
-                <br><sub><b>Kate Rebello</b></sub>
-            </a>
-        </td>
-        <td align=center>
-            <a href="https://github.com/clare0901">
-                <img src="https://user-images.githubusercontent.com/58616834/102794374-4c2a5280-43d1-11eb-8012-85a071ae1577.png" alt="Clare" height="150" width="150">
-                <br><sub><b>Clare Rebello</b></sub>
-            </a>
-        </td>
-        <td align=center>
-            <a href="https://github.com/rebeccadias">
-                <img src="https://user-images.githubusercontent.com/58616834/102802882-5c482f00-43dd-11eb-932c-20ff9ea4312c.png" alt="Rebecca" height="150" width="150">
-                <br><sub><b>Rebecca Dias</b></sub>
-            </a>
-        </td>
-    </table>
-</div>
+<p>Kate Rebello</p>
+<p>Clare Rebello</p>
+<p>Rebecca Dias</p>
+
