@@ -50,7 +50,7 @@ Instagram Clone is a system where people can connect with each other by sharing 
 ---
 
 ### <a name="acknowledgements"> 5. Acknowledgements</a>
--<p>Kate Rebello</p>
--<p>Clare Rebello</p>
--<p>Rebecca Dias</p>
+-Kate Rebello
+-Clare Rebello
+-Rebecca Dias
 
