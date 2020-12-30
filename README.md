@@ -50,9 +50,9 @@ Instagram Clone is a system where people can connect with each other by sharing 
 ---
 
 ### <a name="acknowledgements"> 5. Acknowledgements</a>
-- Kate Rebello
-- Clare Rebello
-- Rebecca Dias
+- <a href="https://github.com/katerebello">Kate Rebello</a>
+- <a href="https://github.com/clare0901">Clare Rebello</a>
+- <a href="https://github.com/rebeccadias">Rebecca Dias</a>
 
 
 [![WhatsApp Image 2020-10-13 at 7 04 51 PM](https://user-images.githubusercontent.com/72509723/95880997-b7cebe80-0d95-11eb-8934-1d4577546a52.jpeg)](http://issb.sfit.ac.in/)
